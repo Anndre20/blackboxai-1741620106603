@@ -1,0 +1,14 @@
+Flask
+flask-cors
+openai
+python-dotenv
+redis
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+msal
+timetreeapi
+python-magic
+pandas
